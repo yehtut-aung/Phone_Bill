@@ -1,3 +1,10 @@
+"""
+A particular cell phone plan includes 50 minutes of air time and 50 text messages
+for $15.00 a month. Each additional minute of air time costs $0.25, while additional
+text messages cost $0.15 each. All cell phone bills include an additional charge of
+$0.44 to support 911 call centers, and the entire bill (including the 911 charge) is
+subject to 5 percent sales tax
+"""
 class Phonebill:
     TOTAL_CALL = 0                         # Total Call Read from User
     TOTAL_MSG = 0                          # Total Message Read from User
